@@ -1,0 +1,47 @@
+[
+  {
+    "id": "GAME-001",
+    "titulo": "Roblox",
+    "plataforma": "MOBILE",
+    "nivelRiesgo": "PRECAUCION",
+    "edadMinima": 7,
+    "tieneChatAbierto": true,
+    "comprasIntegradas": true
+  },
+  {
+    "id": "GAME-002",
+    "titulo": "Minecraft",
+    "plataforma": "PC",
+    "nivelRiesgo": "SEGURO",
+    "edadMinima": 7,
+    "tieneChatAbierto": false,
+    "comprasIntegradas": false
+  },
+  {
+    "id": "GAME-003",
+    "titulo": "Brawl Stars",
+    "plataforma": "MOBILE",
+    "nivelRiesgo": "PRECAUCION",
+    "edadMinima": 10,
+    "tieneChatAbierto": true,
+    "comprasIntegradas": true
+  },
+  {
+    "id": "GAME-004",
+    "titulo": "Grand Theft Auto V",
+    "plataforma": "CONSOLA",
+    "nivelRiesgo": "BLOQUEADO",
+    "edadMinima": 18,
+    "tieneChatAbierto": true,
+    "comprasIntegradas": true
+  },
+  {
+    "id": "GAME-005",
+    "titulo": "Stardew Valley",
+    "plataforma": "PC",
+    "nivelRiesgo": "SEGURO",
+    "edadMinima": 6,
+    "tieneChatAbierto": false,
+    "comprasIntegradas": false
+  }
+]
