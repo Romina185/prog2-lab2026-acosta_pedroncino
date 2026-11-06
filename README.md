@@ -10,4 +10,6 @@ Pérez, D. (2026a). Programación 2: Laboratorio de Java [Consigna y guía de ev
 Pérez, D. (2026b). Prototipo de inicio en Java Swing [Código fuente de software]. 
 Página web:
 https//notebook.google.com.
-Enlace al video explicativo
+
+Enlace al video explicativo: https://drive.google.com/drive/u/1/folders/1itFeW7CIxQj_c4EVtr0ooDnJ3xdcAdb6
+
