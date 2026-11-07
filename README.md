@@ -13,7 +13,7 @@ Nombre del proyecto: Ciber Guardianes. Nombres completos de los integrantes: Aco
 | Filtrado de juegos por `NivelRiesgo` mediante `JRadioButton`. | Filtra la tabla mostrando solo la categoría seleccionada. | OK. La tabla actualiza sus filas según la selección. |
 | Cierre y reapertura de la aplicación. | Recuperación completa de los registros guardados en JSON. | OK. Todos los datos persisten tras reiniciar. |
 | Inicio de la aplicación sin archivo `juegos.json`. | Genera un archivo nuevo vacío sin fallar ni cerrarse. | OK. Arranca en colección vacía sin arrojar excepciones. |
-
+<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/b69cb88b-531f-441f-bce0-30c91c32811f" />
 
 
 Bibliografia didáctica y disciplinar:
